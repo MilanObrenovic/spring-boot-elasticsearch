@@ -1,26 +1,18 @@
-# Getting Started
+# Java Spring Boot + Elasticsearch
 
-### Reference Documentation
+This repository demonstrates very simple demo example of implementing and using Elasticsearch.
+This example is a simple full CRUD application.
 
-For further reference, please consider the following sections:
+# 0. Technologies used
 
-* [Official Gradle documentation](https://docs.gradle.org)
-* [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.2.3/gradle-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.2.3/gradle-plugin/reference/html/#build-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/3.2.3/reference/htmlsingle/index.html#web)
-* [Spring Data Elasticsearch (Access+Driver)](https://docs.spring.io/spring-boot/docs/3.2.3/reference/htmlsingle/index.html#data.nosql.elasticsearch)
+| Technology       | Version   |
+|------------------|-----------|
+| Java Spring Boot | `v3.2.3`  |
+| Docker           | `v25.0.3` |
+| Docker Compose   | `v2.22.0` |
 
-### Guides
+# 1. What is Elasticsearch?
 
-The following guides illustrate how to use some features concretely:
-
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
-
-### Additional Links
-
-These additional references should also help you:
-
-* [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
-
+Elasticsearch is a distributed, RESTful search and analytics engine designed for horizontal scalability, reliability,
+and real-time search capabilities. It is built on top of Apache Lucene, which is a high-performance, full-featured text
+search engine library written in Java.
