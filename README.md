@@ -1,5 +1,7 @@
 # Java Spring Boot + Elasticsearch
 
+![banner](misc/banner.svg)
+
 This repository demonstrates very simple demo example of implementing and using Elasticsearch.
 This example is a simple full CRUD application.
 
@@ -10,6 +12,7 @@ This example is a simple full CRUD application.
 | Java Spring Boot | `v3.2.3`  |
 | Docker           | `v25.0.3` |
 | Docker Compose   | `v2.22.0` |
+| Elasticsearch    | `v8.12.2` |
 
 # 1. What is Elasticsearch?
 
